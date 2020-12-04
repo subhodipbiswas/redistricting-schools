@@ -104,3 +104,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# Large files to keep off of the Git tree
+LCPS_data/
+results/
